@@ -1,6 +1,6 @@
 name: Como usar variáveis de ambiente
 on:
-  workflow_dipatch:
+  workflow_dispatch:
 env:
   ENV_WORKFLOW: "Valor WORKFLOW"
 jobs:
